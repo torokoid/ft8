@@ -65,7 +65,7 @@ body::before {
 </p>
 -->
 	
-<h1><span class="yellow"><marquee behavior="alternate">!!! HANworld 20217月号 FT8導入マニュアル !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! HANworld 2021年7月号 FT8導入マニュアル !!!</marquee></span></h1>
 
 <h3><span class="white">該当記事の部分のみスキャンしました。</span></h3>
 <a href="20210905_001.JPG" data-lightbox="abc"><img src="20210905_001.JPG" alt="サンプル画像" width="900" /></a>
