@@ -58,15 +58,15 @@ body::before {
 </head>
 <body>
 
- <!--
+
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
--->
+
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! HANworld 2021年7月号 FT8導入マニュアル !!!</marquee></span></h1>
-<!--
+
 <h3><span class="white">該当記事の部分のみスキャンしました。</span></h3>
 <a href="20210905_001.JPG" data-lightbox="abc"><img src="20210905_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210905_002.JPG" data-lightbox="abc"><img src="20210905_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -82,7 +82,7 @@ body::before {
 <a href="20210905_012.JPG" data-lightbox="abc"><img src="20210905_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210905_013.JPG" data-lightbox="abc"><img src="20210905_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210905_014.JPG" data-lightbox="abc"><img src="20210905_014.JPG" alt="サンプル画像" width="900" /></a>
--->
+
 
 
 
