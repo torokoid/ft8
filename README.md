@@ -58,7 +58,7 @@ body::before {
 </head>
 <body>
 
-
+<!--
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
@@ -84,7 +84,7 @@ body::before {
 <a href="20210905_014.JPG" data-lightbox="abc"><img src="20210905_014.JPG" alt="サンプル画像" width="900" /></a>
 
 
-
+-->
 
 
 
