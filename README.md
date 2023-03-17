@@ -63,6 +63,7 @@ body::before {
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
+<!--
 
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! HANworld 2021年7月号 FT8導入マニュアル !!!</marquee></span></h1>
@@ -85,7 +86,7 @@ body::before {
 
 
 
-
+-->
 
 
 
